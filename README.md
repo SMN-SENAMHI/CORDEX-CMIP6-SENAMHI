@@ -36,6 +36,5 @@ This repository is intended for researchers and operational modeling centers int
 
 
 ## Domain configuration
-
-![WRF Domain](https://raw.githubusercontent.com/SMN-SENAMHI/CORDEX-CMIP6-SENAMHI/blob/main/dominio_wrf.png)
+![Dominio WRF](dominio_wrf.png)
 
